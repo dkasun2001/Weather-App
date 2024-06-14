@@ -1,5 +1,5 @@
 # Live Preview
-![Live preview of weather app](https://dkh-weather-app.netlify.app/)
+[Live Preview](https://dkh-weather-app.netlify.app/)
 
 # Getting Started
 

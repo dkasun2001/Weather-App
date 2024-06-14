@@ -1,5 +1,7 @@
 import React, { useEffect, useRef, useState } from "react";
 import "./Weather.css";
+import "./mobile.weather.css";
+import "./tablet.weather.css";
 
 import search_icon from "../Assets/search.png";
 import clear_icon from "../Assets/clear.png";

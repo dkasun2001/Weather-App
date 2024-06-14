@@ -1,0 +1,41 @@
+/* Media query to target screens between 768px and 1024px wide */
+@media (min-width: 768px) and (max-width: 1024px) {
+
+  .weather {
+    padding: 20px; /* Adjust padding for in-between screens */
+  }
+
+  .search-bar input {
+    font-size: 15px; /* Adjust font size for readability */
+    padding-left: 16px; /* Adjust padding for in-between screens */
+  }
+
+  .search-bar img {
+    width: 40px; /* Adjust icon size for in-between screens */
+    padding: 10px; /* Adjust padding for in-between screens */
+  }
+
+  .weather-icon {
+    width: 90px; /* Adjust icon size based on design */
+  }
+
+  .temperature {
+    font-size: 45px; /* Adjust font size for readability */
+  }
+
+  .location {
+    font-size: 26px; /* Adjust font size for readability */
+  }
+
+  .weather-data {
+    margin-top: 20px; /* Adjust margin for in-between screens */
+  }
+
+  .weather-data .col {
+    font-size: 17px; /* Adjust font size for readability */
+  }
+
+  .weather-data .col img {
+    width: 20px; /* Adjust icon size for in-between screens */
+  }
+}

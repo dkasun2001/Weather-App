@@ -1,3 +1,6 @@
+# Live Preview
+![Live preview of weather app](https://dkh-weather-app.netlify.app/)
+
 # Getting Started
 
 This weather app uses ReactJS and the Open Weather Map API to display weather information for a given city.
